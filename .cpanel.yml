@@ -8,3 +8,4 @@ deployment:
     - /bin/cp -R *.html $DEPLOYPATH
     - /bin/cp -R assets/ $DEPLOYPATH
     - /bin/cp -R 404.html $DEPLOYPATH
+    - /bin/cp -R mail.php $DEPLOYPATH
